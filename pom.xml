@@ -4,7 +4,7 @@
   <groupId>com.nishanthcompany.myapp</groupId>
   <artifactId>mvndevops</artifactId>
   <packaging>jar</packaging>
-  <version>2.0</version>
+  <version>3.0</version>
   <name>mvndevops</name>
   <url>http://maven.apache.org</url>
   <dependencies>
